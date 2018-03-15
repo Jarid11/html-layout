@@ -1,0 +1,41 @@
+body {
+  margin: 0 auto;
+}
+
+header {
+  height: 20vh;
+  width: 100%;
+  background-color: lightgrey;
+  padding: 15px;
+}
+
+.content {
+  padding: 50px;
+}
+
+.square {
+  height: 20vh;
+  width: 10vw;
+  background-color: #2aacfc;
+}
+
+.footer1 {
+  height: 20vh;
+  width: 100%;
+  background-color: #2aacfc;
+}
+.footer2 {
+  height: 20vh;
+  width: 100%;
+  background-color: #00ffbf;
+}
+.footer3 {
+  height: 20vh;
+  width: 100%;
+  background-color: #d0f248;
+}
+.footer4 {
+  height: 20vh;
+  width: 100%;
+  background-color: #ffff00;
+}
